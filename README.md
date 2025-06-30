@@ -39,6 +39,5 @@ This full stack project showcases the culmination of skills acquired during the 
 | 01 | Recipe Book Website | 👉 [Link](https://github.com/janakvarshney/CodeAlpha/tree/master/src/app/modules/task-one) 🔗|
 | 02 | Social Media Dashboard | 👉 [Link](https://github.com/janakvarshney/CodeAlpha/tree/master/src/app/modules/task-two) 🔗|
 | 03 | IssueTracker System | 👉 [Link](https://github.com/janakvarshney/CodeAlpha/tree/master/src/app/modules/task-three) 🔗|
-Let me know if you want to include a project name, screenshots, features list, GitHub link, or live demo link and I can update the description accordingly!
 
 Note: Thanks 🤝 to the CodeAlpha team for a fantastic experience!
